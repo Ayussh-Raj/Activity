@@ -5,7 +5,8 @@ body{
 }
 button{
     margin-bottom:2rem;
-    background-color: black;
+    background-color: #4CAF50; /* Green */
+    
 }
 div{
     height:200px;
