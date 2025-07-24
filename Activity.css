@@ -1,8 +1,11 @@
 body{
     text-align:center;
+
+    
 }
 button{
     margin-bottom:2rem;
+    background-color: black;
 }
 div{
     height:200px;
